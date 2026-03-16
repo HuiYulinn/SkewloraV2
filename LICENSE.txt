@@ -1,0 +1,2 @@
+This package is provided as-is for research prototyping.
+Please verify all baseline numbers and experimental settings against the original papers before submission.
