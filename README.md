@@ -1,5 +1,6 @@
 # SkewLoRA
-
+0.7% warm-up version without radom.
+Some files no mentioned.
 A compact experimental codebase for running **LoRA** and **SkewLoRA** on GLUE tasks with Hugging Face Transformers + PEFT.
 
 ## What is included
